@@ -549,5 +549,3 @@ async def on_message(message):
 
 # Run the bot the safe way
 client.run(os.getenv('DISCORD_BOT_TOKEN'))
-# Replace 'YOUR_BOT_TOKEN' with your actual bot token
-#client.run('MTM0NzgwNjcwNTYxODI2MDA1MA.Gvj2F5.cHy46Sb5PD9h9_Rld9MjW8mWHpV_BndM_6wnzs')
