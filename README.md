@@ -1,3 +1,6 @@
+![4be065e5-84ad-4d85-a449-565028441a20](https://github.com/user-attachments/assets/f8b1a7db-e484-4f9f-ab4f-f449c2aa0294)
+
+
 # CTFTimeBot
 A bot I built based of the NULL CTF Bot.  Basically it helps list upcoming CTF's and allows for CTF roles/challenges/solves and creation/deletion commands to be issued in your Discord server.  Enjoy and feel free to PR and also tweak to suit.
 The bot where ever it may be run should be used in a python virtual enviroment make sure to install requirements.txt - it wont work otherwise.
