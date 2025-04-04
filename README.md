@@ -13,7 +13,7 @@ Take heed not to post a Discord token when testing and use the safe option by cr
 
 ![image](https://github.com/user-attachments/assets/f0b1af23-2a6c-496e-af44-8b20d3edeff6)
 
-!time_until_start <event ID>
+`!time_until_start <event ID>`
 
 ![image](https://github.com/user-attachments/assets/ae155878-1892-4eee-9963-e7d30b3b1358)
 
